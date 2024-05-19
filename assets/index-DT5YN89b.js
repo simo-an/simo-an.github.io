@@ -1,1 +1,0 @@
-import{_ as n,a as t}from"./CustomerFeedback.vue_vue_type_style_index_0_lang-BYXeVHRz.js";import{d as a,c as s,a as e,r as c,o as r}from"./index-QIdG7Ruf.js";import"./sendEmail-Ddi_ArMF.js";const _={id:"view-contactus"},v=a({__name:"index",setup(i){return(m,d)=>{const o=c("n-divider");return r(),s("div",_,[e(n),e(o,{vertical:""}),e(t)])}}});export{v as default};

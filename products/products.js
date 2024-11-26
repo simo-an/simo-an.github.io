@@ -3,20 +3,20 @@ const products = {
     {
       name: "autoparts",
       items: [
-        {
-          name: "fuel-pumps",
-          items: [
-            {
-              name: "Fuel Pump",
-              picture: "fuel-pump.jpg",
-              details: {
-                "Payment terms": "T/T, western union, paypal",
-                Delivery: "by sea or air, express",
-                Notes: "Suitable for all model Transmission type",
-              },
-            },
-          ],
-        },
+        // {
+        //   name: "fuel-pumps",
+        //   items: [
+        //     {
+        //       name: "Fuel Pump",
+        //       picture: "fuel-pump.jpg",
+        //       details: {
+        //         "Payment terms": "T/T, western union, paypal",
+        //         Delivery: "by sea or air, express",
+        //         Notes: "Suitable for all model Transmission type",
+        //       },
+        //     },
+        //   ],
+        // },
         {
           name: "shock-absorbers",
           items: [

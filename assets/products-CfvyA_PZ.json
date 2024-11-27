@@ -1,0 +1,210 @@
+{
+  "categories": [
+    {
+      "name": "autoparts",
+      "items": [
+        {
+          "name": "shock-absorbers",
+          "items": [
+            {
+              "name": "Air Compressor",
+              "picture": "air-compressor.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            },
+            {
+              "name": "Shock Absorber",
+              "picture": "shock-absorber.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            },
+            {
+              "name": "Shock Absorber Repair Kit",
+              "picture": "shock-absorber-repair-kits.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            }
+          ]
+        },
+        {
+          "name": "drive-shafts",
+          "items": [
+            {
+              "name": "Drive Shaft LR064251",
+              "picture": "drive-shaft-LR064251.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            },
+            {
+              "name": "Drive Shaft LR064252",
+              "picture": "drive-shaft-LR064252.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            }
+          ]
+        },
+        {
+          "name": "turbochargers",
+          "items": [
+            {
+              "name": "Turbocharger",
+              "picture": "turbocharger.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            }
+          ]
+        },
+        {
+          "name": "propeller-shafts",
+          "items": [
+            {
+              "name": "Propeller Shaft",
+              "picture": "propeller-shaft.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            }
+          ]
+        },
+        {
+          "name": "cylinder-heads",
+          "items": [
+            {
+              "name": "Cylinder head",
+              "picture": "cylinder-head.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            }
+          ]
+        },
+        {
+          "name": "exhaust-gas-recirculation-valves",
+          "items": [
+            {
+              "name": "Exhaust gas recirculation valve",
+              "picture": "exhaust-gas-recirculation-valve.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            }
+          ]
+        },
+        {
+          "name": "throttle-bodies",
+          "items": [
+            {
+              "name": "Throttle body",
+              "picture": "throttle-body.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            }
+          ]
+        },
+        {
+          "name": "engine-mounts",
+          "items": [
+            {
+              "name": "Engine mount",
+              "picture": "engine-mount.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "bearings",
+      "items": []
+    },
+    {
+      "name": "pulleys",
+      "items": [
+        {
+          "name": "shutter-door-pulleys",
+          "items": [
+            {
+              "name": "Shutter Door Pulley",
+              "picture": "shutter-door-pulley.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express",
+                "Notes": "Length, Roller Size, Material can be Customized"
+              }
+            }
+          ]
+        },
+        {
+          "name": "sliding-door-pulleys",
+          "items": [
+            {
+              "name": "Lifting Pulley DL25-A",
+              "picture": "lifting-pulley-DL25-A.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            },
+            {
+              "name": "Lifting Pulley DL38-B",
+              "picture": "lifting-pulley-DL38-B.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            },
+            {
+              "name": "Lifting Pulley DL25-C",
+              "picture": "lifting-pulley-DL25-C.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            }
+          ]
+        },
+        {
+          "name": "exercise-pulleys",
+          "items": [
+            {
+              "name": "Aluminum alloy pulley",
+              "picture": "aluminum-alloy-pulley.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            },
+            {
+              "name": "Plastic pulley",
+              "picture": "plastic-pulley.jpg",
+              "details": {
+                "Payment terms": "T/T, western union, paypal",
+                "Delivery": "by sea or air, express"
+              }
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

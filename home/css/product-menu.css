@@ -9,7 +9,7 @@
   position: absolute;
   left: 3%;
   top: 15%;
-  z-index: 99
+  z-index: 9
 }
 
 .product-menu-list .teamt b {
@@ -58,7 +58,7 @@
   left: 12%;
   width: 82%;
   bottom: 20%;
-  z-index: 99;
+  z-index: 9;
   transition: all 0.5s;
 }
 
@@ -115,14 +115,13 @@
 .product-menu-list .menu-list a>p {
   font-size: 24px;
   color: #fff;
-  font-family: "cdcbedad-c2d2-4fe9-82e7-c5079cdf9a64";
   position: absolute;
    bottom: 8%;
   left: 12%;
   opacity: 0;
   transition: all 0.8s;
-  z-index: 99;
-      line-height: 2;
+  z-index: 9;
+  line-height: 2;
   text-transform: uppercase;
 }
 
@@ -132,7 +131,6 @@
 }
 
 @media screen and (max-width:768px) {
-
   .product-menu-list .menu-list a {
     display: block;
     width: calc((100% - 0px) / 5);
@@ -157,7 +155,7 @@
     left: 3%;
     top: 15%;
     display: none;
-    z-index: 99;
+    z-index: 9;
   }
   .product-menu-list .menu-list a .product-item p{font-size:14px;}
 

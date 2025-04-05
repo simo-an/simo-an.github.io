@@ -148,7 +148,7 @@
     width: 100%;
     height: 350px;
     position: relative;
-    background: url(/assets/car.jpg) repeat center center;
+    background: url(/assets/image/car.jpg) repeat center center;
     background-attachment: fixed;
   }
 

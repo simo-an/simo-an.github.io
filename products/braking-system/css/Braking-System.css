@@ -1,0 +1,75 @@
+#app {
+  display: flex;
+  flex-direction: column;
+  overflow-y: auto;
+  overflow-x: hidden;
+}
+
+#app-product-content {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  flex-grow: 1;
+  margin-top: 100px;
+}
+
+.Braking-System-info {
+  margin-top: 24px;
+  display: flex;
+  align-items: center;
+  width: 96%;
+  max-width: 1500px;
+}
+
+.Braking-System-info img {
+  padding-right: 50px;
+}
+.Braking-System-info img,
+.Braking-System-info .details {
+  width: 50%;
+}
+
+.Braking-System-info .details p {
+  margin-top: 30px;
+  font-size: 16px;
+}
+
+.Braking-System-products {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 100%;
+  margin: 30px 0 20px 0;
+}
+
+.Braking-System-products h3 {
+  max-width: 1500px;
+  width: 96%;
+  margin-top: 30px;
+  margin-bottom: 20px;
+}
+
+.Braking-System-products .nav-list {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 30px;
+  padding-bottom: 30px;
+  background-color: rgba(234, 234, 234, 1);
+}
+
+.Braking-System-products .nav-list .ta-button-group {
+  width: 96%;
+  
+}
+
+.Braking-System-products .product-list {
+  max-width: 1500px;
+  width: 96%;
+  margin-top: 32px;
+}
+
+.Braking-System-products .product-list .ta-card {
+  cursor: pointer;
+}

@@ -264,9 +264,14 @@ template {
   display: none!important
 }
 
+.h1,.h2,.h3,.h4,h1,h2,h3,h4 {
+  font-weight: bold
+}
+.h5,.h6,h5,h6 {
+  font-weight: 500;
+}
 .h1,.h2,.h3,.h4,.h5,.h6,h1,h2,h3,h4,h5,h6 {
   margin-bottom: .5rem;
-  font-weight: 500;
   line-height: 1.2
 }
 
@@ -7467,7 +7472,7 @@ summary {
 }
 
 :root {
-  --swiper-theme-color: #007aff;
+  --swiper-theme-color: #ef5b24;
   --swiper-navigation-size: 44px;
   --font_0: bold clamp(2.25rem, 1.364rem + 4.43vw, 4.688rem)/1.4em "Microsoft YaHei",sans-serif;
   --font_1: bold clamp(1.875rem, 1.057rem + 4.09vw, 4.125rem)/1.4em "Microsoft YaHei",sans-serif;
@@ -8354,7 +8359,7 @@ div[class^=cbox-],div[id^=c_] {
   }
 
   .pl_confirm_con .pl_confirm_oprate .btn-primary {
-      color: #1890ff;
+      color: #ef5b24;
       border-left: 1px solid #ddd
   }
 

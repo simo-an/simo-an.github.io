@@ -1,4 +1,9 @@
-#app-home {
+html, body, #app {
+  width: 100%;
+  height: 100%;
+  padding: 0;
+  margin: 0;
+
   font-family: PingFang SC,museo-300,Hiragino Sans GB,Microsoft YaHei,Arial,sans-serif;
 }
 

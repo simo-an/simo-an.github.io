@@ -87,4 +87,4 @@ function initNav() {
     : initMouseEvent(elem, config);
 }
 
-window.HomeNav = { initNav };
+window.HeaderNav = { initNav };

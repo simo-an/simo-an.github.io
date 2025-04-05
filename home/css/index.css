@@ -481,6 +481,10 @@
     padding-right: 0px;
   }
 
+  #c_navigation_006_P_862-1673503428503 .e_container-23 .cbox-23-0 .company-name{
+    display: none;
+  }
+
   #c_navigation_006_P_862-1673503428503 .e_navigationA-32 .p_level1Box {
     display: block;
     width: 100%;
@@ -621,10 +625,11 @@
   }
 
   #c_navigation_006_P_862-1673503428503 .e_container-23 .cbox-23-3 {
+    position: absolute;
+    right: 80px;
     flex-grow: 1;
     display: flex;
     justify-content: flex-end;
-    padding-bottom: 12px;
   }
 
   #c_navigation_006_P_862-1673503428503 .e_container-23 .cbox-23-2 {
@@ -637,7 +642,7 @@
   }
 
   #c_navigation_006_P_862-1673503428503 .e_container-23 .cbox-23-1 {
-    flex: 0 0 30%;
+    
   }
 }
 

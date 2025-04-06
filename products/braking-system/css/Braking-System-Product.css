@@ -16,6 +16,7 @@
 .Product-title {
   margin-top: 24px;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   width: 96%;
   max-width: 1500px;
@@ -51,5 +52,15 @@
 
 
 @media screen and (max-width:768px) {
-
+  
+  .Product-title img {
+    padding-right: 0;
+  }
+  .Product-title .introduce {
+    margin-top: 24PX;
+  }
+  .Product-title img,
+  .Product-title .introduce {
+    width: 100%;
+  }
 }

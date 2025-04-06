@@ -16,6 +16,7 @@
 .Braking-System-info {
   margin-top: 24px;
   display: flex;
+  flex-wrap: wrap;
   align-items: center;
   width: 96%;
   max-width: 1500px;
@@ -79,6 +80,15 @@
 }
 
 @media screen and (max-width:768px) {
+  .Braking-System-info img {
+    padding-right: 0;
+  }
+  .Braking-System-info .details {
+    margin-top: 24px;
+  }
+  .Braking-System-info img, .Braking-System-info .details {
+    width: 100%;
+  }
   .Braking-System-products .product-list .ta-card-group {
     justify-content: center;
   }

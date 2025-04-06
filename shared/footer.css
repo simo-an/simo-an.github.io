@@ -223,6 +223,10 @@
   font-size: 16px;
 }
 
+#app-footer-nav .e_bottomNav-41 .p_menu2Item:hover {
+  color: #ef5b24;
+}
+
 #app-footer-nav .e_bottomNav-41 .p_menu1Item {
   margin-bottom: 30px;
   color: #333333;

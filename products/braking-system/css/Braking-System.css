@@ -50,7 +50,8 @@
 }
 
 .Braking-System-products .nav-list {
-  width: 100%;
+  max-width: 1500px;
+  width: 96%;
   display: flex;
   justify-content: center;
   align-items: center;

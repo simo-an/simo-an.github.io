@@ -1,0 +1,25 @@
+.ta-grid {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.ta-grid.g2 {
+  row-gap: 24px;
+  column-gap: 24px;
+}
+.ta-grid.g2 > * {
+  width: calc(50% - 12px);
+}
+
+.ta-grid.g4 > * {
+  width: calc(25% - 24px);
+}
+.ta-grid.g4 {
+  row-gap: 12px;
+  column-gap: 12px;
+}
+
+.ta-grid > * {
+  flex: 1;
+  max-width: 100%;
+}

@@ -1,0 +1,14 @@
+.ta-divider {
+  background-color: #dddddd;
+}
+
+.ta-divider.h {
+  height: 1px;
+  width: 100%;
+}
+
+.ta-divider.v {
+  width: 1px;
+  height: 100%;
+}
+

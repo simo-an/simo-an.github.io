@@ -61,7 +61,10 @@
 
 .Braking-System-products .nav-list .ta-button-group {
   width: 96%;
-  
+}
+
+.Braking-System-products .nav-list .ta-button-group .ta-button {
+  min-width: 200px;
 }
 
 .Braking-System-products .product-list {
@@ -72,4 +75,15 @@
 
 .Braking-System-products .product-list .ta-card {
   cursor: pointer;
+}
+
+@media screen and (max-width:768px) {
+  .Braking-System-products .product-list .ta-card-group {
+    justify-content: center;
+  }
+  .Braking-System-products .product-list .ta-card {
+    flex: 1;
+    min-width: 360px;
+    max-width: 100%;
+  }
 }

@@ -2617,3 +2617,31 @@ li {
     line-height: 1.5;
   }
 }
+
+#home-about-us .provided-product-title {
+  margin-top: 24px;
+}
+#home-about-us .about-us-content {
+  font-size: 18px;
+}
+
+#home-about-us .provided-product-list {
+  margin-top: 8px;
+  padding-left: 16px;
+  font-size: 16px;
+}
+
+#home-about-us .provided-product-list ul {
+  margin: 0;
+  padding-left: 20px;
+  list-style: auto;
+}
+
+#home-about-us .provided-product-list li {
+  list-style: auto;
+}
+
+
+#home-about-us .provided-product-list h6 {
+  margin-top: 2px;
+}

@@ -13,7 +13,7 @@
   margin-top: 100px;
 }
 
-.Braking-System-info {
+.Bearing-Product-info {
   margin-top: 24px;
   display: flex;
   flex-wrap: wrap;
@@ -22,20 +22,20 @@
   max-width: 1500px;
 }
 
-.Braking-System-info img {
+.Bearing-Product-info img {
   padding-right: 50px;
 }
-.Braking-System-info img,
-.Braking-System-info .details {
+.Bearing-Product-info img,
+.Bearing-Product-info .details {
   width: 50%;
 }
 
-.Braking-System-info .details p {
+.Bearing-Product-info .details p {
   margin-top: 30px;
   font-size: 16px;
 }
 
-.Braking-System-products {
+.Bearing-Product-products {
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -43,14 +43,14 @@
   margin: 30px 0 20px 0;
 }
 
-.Braking-System-products h3 {
+.Bearing-Product-products h3 {
   max-width: 1500px;
   width: 96%;
   margin-top: 30px;
   margin-bottom: 20px;
 }
 
-.Braking-System-products .nav-list {
+.Bearing-Product-products .nav-list {
   max-width: 1500px;
   width: 96%;
   display: flex;
@@ -61,38 +61,38 @@
   background-color: rgba(234, 234, 234, 1);
 }
 
-.Braking-System-products .nav-list .ta-button-group {
+.Bearing-Product-products .nav-list .ta-button-group {
   width: 96%;
 }
 
-.Braking-System-products .nav-list .ta-button-group .ta-button {
+.Bearing-Product-products .nav-list .ta-button-group .ta-button {
   min-width: 200px;
 }
 
-.Braking-System-products .product-list {
+.Bearing-Product-products .product-list {
   max-width: 1500px;
   width: 96%;
   margin-top: 32px;
 }
 
-.Braking-System-products .product-list .ta-card {
+.Bearing-Product-products .product-list .ta-card {
   cursor: pointer;
 }
 
 @media screen and (max-width:768px) {
-  .Braking-System-info img {
+  .Bearing-Product-info img {
     padding-right: 0;
   }
-  .Braking-System-info .details {
+  .Bearing-Product-info .details {
     margin-top: 24px;
   }
-  .Braking-System-info img, .Braking-System-info .details {
+  .Bearing-Product-info img, .Bearing-Product-info .details {
     width: 100%;
   }
-  .Braking-System-products .product-list .ta-card-group {
+  .Bearing-Product-products .product-list .ta-card-group {
     justify-content: center;
   }
-  .Braking-System-products .product-list .ta-card {
+  .Bearing-Product-products .product-list .ta-card {
     flex: 1;
     min-width: 360px;
     max-width: 100%;

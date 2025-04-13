@@ -79,6 +79,10 @@
   cursor: pointer;
 }
 
+.Bearing-Product-products .product-list .ta-card img { 
+  min-height: 216px;
+}
+
 @media screen and (max-width:768px) {
   .Bearing-Product-info img {
     padding-right: 0;

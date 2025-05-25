@@ -1,0 +1,14 @@
+.ta-table {
+  width: 100%;
+  border-collapse: collapse; /* 合并边框 */
+  border: 1px solid #ddd;
+}
+.ta-table th, .ta-table td {
+  padding: 8px;
+  border: 1px solid #ddd;
+  text-align: left;
+}
+.ta-table th {
+  background-color: #f2f2f2;
+  font-weight: bold;
+}

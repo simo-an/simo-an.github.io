@@ -41,3 +41,48 @@ iframe {
   flex-grow: 1;
   margin-top: 100px;
 }
+
+h1 {
+  margin-top: 12px;
+}
+h2 {
+  margin-top: 10px;
+}
+h3 {
+  margin-top: 8px;
+}
+
+h4 {
+  margin-top: 6px;
+}
+
+h5 {
+  margin-top: 4px;
+}
+
+ol {
+  margin: 0;
+  padding: 0;
+  font-size: 16px;
+}
+
+dl,h1,h2,h3,h4,h5,h6,ol,p,pre,ul {
+  margin-top: 0
+}
+
+.btn,.btn-group,.btn-group-vertical,img,svg {
+  vertical-align: middle
+}
+
+.dropdown-menu,body,caption {
+  text-align: left
+}
+
+dd,h1,h2,h3,h4,h5,h6,label {
+  margin-bottom: .5rem
+}
+
+
+p {
+  margin-top: 0 !important;
+}

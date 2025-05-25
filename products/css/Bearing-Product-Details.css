@@ -16,6 +16,7 @@
 .Product-title {
   margin-top: 24px;
   display: flex;
+  flex-direction: column;
   flex-wrap: wrap;
   align-items: center;
   width: 96%;
@@ -25,9 +26,12 @@
 .Product-title img {
   padding-right: 50px;
 }
-.Product-title img,
+.Product-title img {
+  width: 60%;
+  max-width: 680px;
+}
 .Product-title .introduce {
-  width: 50%;
+  width: 80%;
 }
 
 .Product-title .introduce p {
@@ -62,5 +66,6 @@
   .Product-title img,
   .Product-title .introduce {
     width: 100%;
+    padding: 0 12px;
   }
 }

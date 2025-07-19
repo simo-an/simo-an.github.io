@@ -1,8 +1,12 @@
+html {
+  overflow-y: auto;
+}
 #app {
   display: flex;
   flex-direction: column;
-  overflow-y: auto;
+  /* overflow-y: auto; */
   overflow-x: hidden;
+  height: fit-content;
 }
 
 #app-product-content {

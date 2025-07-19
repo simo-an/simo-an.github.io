@@ -1,7 +1,11 @@
+html {
+  overflow-y: auto;
+}
 #app {
+  height: fit-content;
   display: flex;
   flex-direction: column;
-  overflow-y: auto;
+  /* overflow-y: auto; */
   overflow-x: hidden;
 }
 

@@ -894,35 +894,35 @@
   <!-- CUSTOM_BODY_END_TAG -->
   <script>
     //top fixed
-    // $(window).scroll(function () {
-    //   if ($(window).scrollTop() > 0) {
-    //     $("#app-header-nav").addClass("active");
-    //   } else {
-    //     $("#app-header-nav").removeClass("active");
-    //   }
-    // });
+    $(window).scroll(function () {
+      if ($(window).scrollTop() > 0) {
+        $("#app-header-nav").addClass("active");
+      } else {
+        $("#app-header-nav").removeClass("active");
+      }
+    });
 
-    // $("#app-header-nav")
-    //   .mouseenter(function () {
-    //     $("#app-header-nav").addClass("active");
-    //   })
-    //   .mouseleave(function () {
-    //     if ($(window).scrollTop() == 0) {
-    //       $("#app-header-nav").removeClass("active");
-    //     }
-    //   });
+    $("#app-header-nav")
+      .mouseenter(function () {
+        $("#app-header-nav").addClass("active");
+      })
+      .mouseleave(function () {
+        if ($(window).scrollTop() == 0) {
+          $("#app-header-nav").removeClass("active");
+        }
+      });
 
-    // $(function () {
-    //   $('.tab3-3 .p_list > .p_tabbox:nth-child(1)').addClass('cur');
-    //   $('.tab3 .p_list > .p_tabico:nth-child(1)').addClass('cur');
-    //   $('.tab3 .p_list > .p_tabico').click(function (event) {
-    //     $(this).addClass('cur');
-    //     $(this).siblings().removeClass('cur');
+    $(function () {
+      $('.tab3-3 .p_list > .p_tabbox:nth-child(1)').addClass('cur');
+      $('.tab3 .p_list > .p_tabico:nth-child(1)').addClass('cur');
+      $('.tab3 .p_list > .p_tabico').click(function (event) {
+        $(this).addClass('cur');
+        $(this).siblings().removeClass('cur');
 
-    //     $('.tab3-3 .p_list > .p_tabbox').eq($(this).index()).addClass('cur');
-    //     $('.tab3-3 .p_list > .p_tabbox').eq($(this).index()).siblings().removeClass('cur');
-    //   })
-    // });
+        $('.tab3-3 .p_list > .p_tabbox').eq($(this).index()).addClass('cur');
+        $('.tab3-3 .p_list > .p_tabbox').eq($(this).index()).siblings().removeClass('cur');
+      })
+    });
   </script>
   <script type="module">
     import "/shared/header-nav.js";
